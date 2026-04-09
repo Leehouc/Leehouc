@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Leehouc
-- 👀 I’m interested in leaning how to code
-- 🌱 I’m currently learning c++
-- 📫 How to reach me : leehouc@outlook.com
-- I'm from China.
+- 👋 您好，我是李皓
+- ⚡ 我的个人主页请关注https://leeho-cv.github.io/
+- 📫 联系方式：leehouc@163.com，leehouc@outlook.com
