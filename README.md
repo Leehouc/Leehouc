@@ -1,3 +1,2 @@
 - 👋 您好，我是李皓
-- ⚡ 我的个人主页请关注https://leeho-cv.github.io/
 - 📫 联系方式：leehouc@163.com，leehouc@outlook.com
